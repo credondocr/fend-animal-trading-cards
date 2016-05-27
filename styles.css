@@ -4,30 +4,29 @@ h3 {
 	margin-left: 8px;
 }
 
-.animalDescription {
+.animal-description {
 	list-style:none;
 	padding: 0;
     margin: 0
 }
 
-.animalDescription  li {
+.animal-list-item {
 	font-style: italic;
 }
 
-.animalDescription span {
+.animal-fact-label {
 	font-weight: bold;
 	font-style: normal;
 }
 
-.animal{
-	border-width: 1px;
-    border-style: groove;
+.animal {
+	border: 1px groove #000;
 	padding: 7px;
 	width: 285px;
 
 }
 
-.thumbnail{
+.thumbnail {
 	width: 300px;
 }
 
